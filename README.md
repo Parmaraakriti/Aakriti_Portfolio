@@ -3,7 +3,7 @@
   <a href="https://aakriti_portfolio.pages.dev/" target="_blank">Aakriti</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/Capture.png" />
+  <img alt="Demo" src="./Images/Capture.PNG" />
 </div>
 
 <br/>
